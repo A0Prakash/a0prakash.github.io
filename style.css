@@ -1,0 +1,20 @@
+.hellothere{
+    color: red;
+    background-color: black;
+    box-shadow: red 0px 1px 4px, maroon 0px 0px 0px 3px;
+    margin: auto;
+    text-align: center;
+}
+
+html{
+    background-color: black;
+}
+
+.test3w{
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    box-shadow: red 0px 1px 4px, maroon 0px 0px 0px 3px;
+}
