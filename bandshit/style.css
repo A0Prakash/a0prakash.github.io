@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(225, 196, 9);
+}
+
+.musicheader{
+    size: 300%;
+    color: black;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 black;
+    text-align: center;
+    width: 300px;
+    margin:auto;
+    padding:16px;
+    border-radius: 4%;
+    border-spacing: 15px;
+    border: 1px solid rgb(225, 196, 9);
+}
+
+.codemonkey{
+    border-spacing: 15px;
+    background-color: white;
+    color: black;
+    box-shadow: 0 4px 8px 0 black;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    padding: 20px;
+    border-radius: 6%;
+    border: 1px solid rgb(225, 196, 9);
+}
