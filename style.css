@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(225, 196, 9);
+    background-color: black;
 }
 
 .musicheader{
     size: 300%;
     color: black;
-    background-color: white;
+    background-color: rgb(255, 174, 133);
     box-shadow: 0 4px 8px 0 black;
     text-align: center;
     width: 300px;
@@ -13,12 +13,12 @@ body{
     padding:16px;
     border-radius: 4%;
     border-spacing: 15px;
-    border: 1px solid rgb(225, 196, 9);
+    border: 1px solid rgb(255, 174, 133);
 }
 
 .codemonkey{
     border-spacing: 15px;
-    background-color: white;
+    background-color: rgb(255, 174, 133);
     color: black;
     box-shadow: 0 4px 8px 0 black;
     text-align: center;
@@ -26,5 +26,5 @@ body{
     width: 500px;
     padding: 20px;
     border-radius: 6%;
-    border: 1px solid rgb(225, 196, 9);
+    border: 1px solid rgb(255, 174, 133);
 }
